@@ -27,8 +27,8 @@ Sales Data: The primary dataset used for this analysis is the "Superstore.XLSX" 
 ### Tools
 
  - Excel - Data Cleaning [Download here](https://microsoft.com)
- - SQL Server - Data Extraction
- - Power BI - Creating Visualization and reports
+ - SQL Server - Data Extraction [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+ - Power BI - Creating Visualization and reports [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ### Data Preparation
 
