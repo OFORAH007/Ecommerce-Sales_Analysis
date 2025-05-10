@@ -17,6 +17,9 @@
 
 This data analysis project aims to provide insights into the sales performance of an E-commerce company over the past year. By analyzing various aspect of the sales data, We seek to identify trends , make data driven recommendations, and gain deeper understanding of Superstore's performance.
 
+![OFORAH SALES DASHBOARD 03](https://github.com/user-attachments/assets/1b1df91b-9151-46c1-96a4-638fb67ea6ab)
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "Superstore.XLSX" File, containing detailed information about each sales made by the Company.
