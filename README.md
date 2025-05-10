@@ -1,4 +1,4 @@
-# Superstoresales Analysis
+# **Superstore_sales Analysis**
 
 ## Table of Content
 
@@ -37,6 +37,8 @@ In the initial data preparation phase, We performed the following tasks;
  2. Handling of the missing values.
  3. Removal of duplicate values.
  4. Standardization of the data.
+ 5. Created a Pivot tables according to the questions asked.
+ 6. Merged all pivot tables into one dashboard and apply slicers to make it interactive.
 
 ### Exploratory Data Analysis
 
